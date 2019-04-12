@@ -1,0 +1,12 @@
+[
+  {
+    "outputFileName": "wwwroot/lib/bundle.js",
+    "inputFiles": ["wwwroot/lib/materialize/js/materialize.js"],
+    "minify": { "enabled": true }
+  },
+  {
+    "outputFileName": "wwwroot/lib/bundle.css",
+    "inputFiles": ["wwwroot/lib/materialize/css/materialize.css"],
+    "minify": { "enabled": true }
+  }
+]
